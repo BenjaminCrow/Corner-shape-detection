@@ -1,5 +1,7 @@
 # Corner-shape-detection
-Detect the corner of each shape on the input image, give every corner a color, then print out which colors surround a shape.
+The goal of this project is to detect shapes on an static image. 
 
-You need to install python, numpy and opencv, after that you can run the code as an executable or trough an IDE.
+The program colors every corner of each shape and prints out which of these colors belong to a given shape.
+
+You need to install python, numpy and opencv, after that you can run the code as an executable or through an IDE.
 I've included a couple images in the folder, you can alter the input images of the python file in line 32-37.
