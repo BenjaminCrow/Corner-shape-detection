@@ -1,5 +1,5 @@
 # Corner-shape-detection
-The goal of this project is to detect shapes on an static image. 
+The goal of this project is to detect basic geometric shapes on an static image. 
 
 The program colors every corner of each shape and prints out which of these colors belong to a given shape.
 
